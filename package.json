@@ -38,8 +38,11 @@
 		}
 	],
 	"license": "MIT",
-	"dependencies": {},
+	"dependencies": {
+		"@mmstudio/an000018": "1.0.202003171130"
+	},
 	"devDependencies": {
+		"@mmstudio/config": "latest",
 		"@typescript-eslint/eslint-plugin": "latest",
 		"@typescript-eslint/parser": "latest",
 		"ava": "latest",
@@ -47,6 +50,7 @@
 		"eslint": "latest",
 		"eslint-config-prettier": "latest",
 		"eslint-plugin-import": "latest",
+		"log4js": "latest",
 		"typescript": "next"
 	}
 }
