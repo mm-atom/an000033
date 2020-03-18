@@ -1,6 +1,6 @@
 {
 	"name": "@mmstudio/an000033",
-	"version": "1.0.0",
+	"version": "1.0.202003181019",
 	"description": "退出登录",
 	"scripts": {
 		"test": "tsc && ava ./tests/*.js",
