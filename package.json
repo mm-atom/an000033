@@ -39,7 +39,7 @@
 	],
 	"license": "MIT",
 	"dependencies": {
-		"@mmstudio/an000018": "1.0.202003171130"
+		"@mmstudio/an000018": "1.0.202004170802"
 	},
 	"devDependencies": {
 		"@mmstudio/config": "latest",
@@ -51,6 +51,7 @@
 		"eslint-config-prettier": "latest",
 		"eslint-plugin-import": "latest",
 		"log4js": "latest",
+		"minio": "latest",
 		"typescript": "next"
 	}
 }
